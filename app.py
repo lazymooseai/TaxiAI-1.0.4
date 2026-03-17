@@ -1,4 +1,4 @@
-“””
+"""
 app.py — Helsinki Taxi AI — Pääsovellus
 
 Streamlit Cloud -yhteensopiva käynnistystiedosto.
@@ -13,7 +13,7 @@ Arkkitehtuuri:
 BaseAgent → 9 agenttia → TaxiCEOAgent → 3 dynaamista korttia
 Streamlit UI: Kojelauta | Tapahtumat | Linkit |
 Tilastot  | Asetukset  | Ylläpito
-“””
+"""
 
 from **future** import annotations
 
